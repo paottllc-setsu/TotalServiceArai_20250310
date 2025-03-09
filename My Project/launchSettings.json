@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "トータルサービスあらい": {
+      "commandName": "Project",
+      "nativeDebugging": true,
+      "hotReloadEnabled": false
+    }
+  }
+}
