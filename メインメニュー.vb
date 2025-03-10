@@ -140,9 +140,6 @@ Public Class メインメニュー
         Me.DataBackUp()
         '2025/2/21 setsu Add  End  ================
         Debug.Print("<<<< バックアップ実施 >>>>")
-        Debug.Print("ぽんぎらす")
-        Debug.Print("とっし～")
-
 
     End Sub
 End Class
