@@ -140,6 +140,7 @@ Public Class メインメニュー
         Me.DataBackUp()
         '2025/2/21 setsu Add  End  ================
         Debug.Print("<<<< バックアップ実施 >>>>")
+        '20250311にローカルtoshiから変更を実施
 
     End Sub
 End Class
